@@ -1,0 +1,30 @@
+[ 
+    {
+        "id": 1, 
+        "titulo": "League Of Legends: Reinos De Runeterra", 
+        "descricao": "Um livro essencial pros fãs de League of Legends!", 
+        "autor": "Riot Games", 
+        "anoPublicacao": 2019
+    },
+    {
+        "id": 2, 
+        "titulo": "League Of Legends: Ashe - Mãe De Guerra", 
+        "descricao": " Ashe é uma Glacinata, uma guerreira dotada de uma conexão mágica.", 
+        "autor": " Odin Austin Shafer", 
+        "anoPublicacao": 2018
+    },
+    {
+        "id": 3, 
+        "titulo": "League Of Legends: Zed", 
+        "descricao": "Um conto de magia, vingança e honra.", 
+        "autor": "Odin Austin Shafer", 
+        "anoPublicacao": 2020
+    },
+    {
+        "id": 4, 
+        "titulo": "League Of Legends: Lux", 
+        "descricao": "Na cintilante cidade de Demacia, a ordem reina suprema.", 
+        "autor": "Odin Austin Shafer", 
+        "anoPublicacao": 2019
+    }
+]
